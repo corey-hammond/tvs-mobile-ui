@@ -132,3 +132,13 @@ body {
 .app-footer ul li i {
   font-size: 22px;
 }
+
+@media (min-width: 768px) {
+  .grid {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+
+  .grid .item img {
+    width: 60px;
+  }
+}

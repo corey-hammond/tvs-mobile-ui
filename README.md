@@ -5,6 +5,6 @@ Uses CSS custom properties and variables, reset for box sizing (*)
 
 Sticky footer - css tricks, search for sticky footer "Sticky Footer Five Ways" we use #4 with FlexBox
 
-Mobile first
+Mobile first, media query for desktop
 
 
