@@ -7,4 +7,6 @@ Sticky footer - css tricks, search for sticky footer "Sticky Footer Five Ways" w
 
 Mobile first, media query for desktop
 
+Splash screen: class of fade with opacity 0 and transition property on the opacity
+
 
